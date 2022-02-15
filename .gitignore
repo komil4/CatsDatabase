@@ -1,0 +1,6 @@
+.idea/
+postgres/postgres/
+postgres/pgadmin/
+target/
+CatsDB.iml
+.DS_Store
