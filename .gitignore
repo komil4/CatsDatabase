@@ -2,3 +2,4 @@
 postgres/postgres/
 postgres/pgadmin/
 CatsDB.iml
+.DS_Store
